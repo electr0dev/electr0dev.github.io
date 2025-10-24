@@ -1,0 +1,15 @@
+# TEST GÜNCELLEMESİ
+repl C:\\CompatibilityAPI\\coasetup.exe http://electr0dev.github.io/CompatibilityAPI/V2.0.0.test/coasetup.exe
+repl C:\\CompatibilityAPI\\coak32.dll http://electr0dev.github.io/CompatibilityAPI/V2.0.0.test/coak32.dll
+repl C:\\CompatibilityAPI\\cx86k32.dll http://electr0dev.github.io/CompatibilityAPI/V2.0.0.test/cx86k32.dll
+repl C:\\CompatibilityAPI\\coau32.dll http://electr0dev.github.io/CompatibilityAPI/V2.0.0.test/coau32.dll
+repl C:\\CompatibilityAPI\\cx86u32.dll http://electr0dev.github.io/CompatibilityAPI/V2.0.0.test/cx86u32.dll
+repl C:\\CompatibilityAPI\\coaload.exe http://electr0dev.github.io/CompatibilityAPI/V2.0.0.test/coaload.exe
+repl C:\\CompatibilityAPI\\coamake.exe http://electr0dev.github.io/CompatibilityAPI/V2.0.0.test/coamake.exe
+repl C:\\CompatibilityAPI\\coauninst.exe http://electr0dev.github.io/CompatibilityAPI/V2.0.0.test/coauninst.exe
+repl C:\\CompatibilityAPI\\MinHook.x64.dll http://electr0dev.github.io/CompatibilityAPI/V2.0.0.test/MinHook.x64.dll
+repl C:\\CompatibilityAPI\\MinHook.x86.dll http://electr0dev.github.io/CompatibilityAPI/V2.0.0.test/MinHook.x86.dll
+repl C:\\CompatibilityAPI\\uiatcor.dll http://electr0dev.github.io/CompatibilityAPI/V2.0.0.test/uiatcor.dll
+repl C:\\CompatibilityAPI\\ui86atcor.dll http://electr0dev.github.io/CompatibilityAPI/V2.0.0.test/ui86atcor.dll
+
+
